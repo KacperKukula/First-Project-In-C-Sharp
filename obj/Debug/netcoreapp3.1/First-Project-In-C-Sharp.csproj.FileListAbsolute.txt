@@ -1,0 +1,13 @@
+C:\Users\kukul\git\First-Project-In-C-Sharp\bin\Debug\netcoreapp3.1\First-Project-In-C-Sharp.exe
+C:\Users\kukul\git\First-Project-In-C-Sharp\bin\Debug\netcoreapp3.1\First-Project-In-C-Sharp.deps.json
+C:\Users\kukul\git\First-Project-In-C-Sharp\bin\Debug\netcoreapp3.1\First-Project-In-C-Sharp.runtimeconfig.json
+C:\Users\kukul\git\First-Project-In-C-Sharp\bin\Debug\netcoreapp3.1\First-Project-In-C-Sharp.runtimeconfig.dev.json
+C:\Users\kukul\git\First-Project-In-C-Sharp\bin\Debug\netcoreapp3.1\First-Project-In-C-Sharp.dll
+C:\Users\kukul\git\First-Project-In-C-Sharp\bin\Debug\netcoreapp3.1\First-Project-In-C-Sharp.pdb
+C:\Users\kukul\git\First-Project-In-C-Sharp\obj\Debug\netcoreapp3.1\First-Project-In-C-Sharp.csprojAssemblyReference.cache
+C:\Users\kukul\git\First-Project-In-C-Sharp\obj\Debug\netcoreapp3.1\First-Project-In-C-Sharp.AssemblyInfoInputs.cache
+C:\Users\kukul\git\First-Project-In-C-Sharp\obj\Debug\netcoreapp3.1\First-Project-In-C-Sharp.AssemblyInfo.cs
+C:\Users\kukul\git\First-Project-In-C-Sharp\obj\Debug\netcoreapp3.1\First-Project-In-C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\kukul\git\First-Project-In-C-Sharp\obj\Debug\netcoreapp3.1\First-Project-In-C-Sharp.dll
+C:\Users\kukul\git\First-Project-In-C-Sharp\obj\Debug\netcoreapp3.1\First-Project-In-C-Sharp.pdb
+C:\Users\kukul\git\First-Project-In-C-Sharp\obj\Debug\netcoreapp3.1\First-Project-In-C-Sharp.genruntimeconfig.cache
