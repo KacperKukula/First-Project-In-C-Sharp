@@ -11,8 +11,8 @@ namespace First_Project_In_C_Sharp
                 Console.Write("\nPodaj liczbe (od 8 do 64 włącznie):");
                 userNum = int.Parse(Console.ReadLine());
             }
-            Console.Write("\nPrzyjęto liczbę ");
-            WriteColor(String.ToString(userNum), "green");
+            Console.Write("\nPrzyjęto liczbę: ");
+            WriteColor(userNum.ToString(), "green");
             Console.WriteLine("\n");
 
             int min = 8, max = 65, checkNum;
@@ -24,15 +24,21 @@ namespace First_Project_In_C_Sharp
 
                 Console.Write($"Step {i}: --> ");
                 if(userNum == checkNum) {
-                    Console.WriteLine($"{userNum} = {checkNum}, Zgadłem!\n");
+                    Console.Write($"{userNum} = {checkNum} ");
+                    WriteColor("Znalazłem!", "green");
+                    Console.Write("\n\n");
                     return 1;
                 }
                 else if(userNum > checkNum) {
-                    Console.WriteLine($"{userNum} > {checkNum}, Mój numer mniejszy");
+                    Console.Write($"{userNum} > {checkNum} ");
+                    WriteColor("Mój numer mniejszy", "red");
+                    Console.Write("\n");
                     min = checkNum;
                 }
                 else if(userNum < checkNum) {
-                    Console.WriteLine($"{userNum} < {checkNum}, Mój numer większy");
+                    Console.Write($"{userNum} < {checkNum} ");
+                    WriteColor("Mój numer większy", "red");
+                    Console.Write("\n");
                     max = checkNum;
                 }
             }
@@ -53,6 +59,11 @@ namespace First_Project_In_C_Sharp
                     Console.Write(value.PadRight(Console.WindowWidth - 1));
                     break;
                 case "red":
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.Write(value.PadRight(Console.WindowWidth - 1));
+                    break;
+                default:
+                    Console.Write(value);
                     break;
             }
 
