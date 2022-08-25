@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kukul\\git\\First-Project-In-C-Sharp\\First-Project-In-C-Sharp.csproj": {}
+    "C:\\Users\\kukul\\git\\Losuj-liczbe-C-sharp\\First-Project-In-C-Sharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kukul\\git\\First-Project-In-C-Sharp\\First-Project-In-C-Sharp.csproj": {
+    "C:\\Users\\kukul\\git\\Losuj-liczbe-C-sharp\\First-Project-In-C-Sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kukul\\git\\First-Project-In-C-Sharp\\First-Project-In-C-Sharp.csproj",
+        "projectUniqueName": "C:\\Users\\kukul\\git\\Losuj-liczbe-C-sharp\\First-Project-In-C-Sharp.csproj",
         "projectName": "First-Project-In-C-Sharp",
-        "projectPath": "C:\\Users\\kukul\\git\\First-Project-In-C-Sharp\\First-Project-In-C-Sharp.csproj",
+        "projectPath": "C:\\Users\\kukul\\git\\Losuj-liczbe-C-sharp\\First-Project-In-C-Sharp.csproj",
         "packagesPath": "C:\\Users\\kukul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kukul\\git\\First-Project-In-C-Sharp\\obj\\",
+        "outputPath": "C:\\Users\\kukul\\git\\Losuj-liczbe-C-sharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kukul\\AppData\\Roaming\\NuGet\\NuGet.Config"
